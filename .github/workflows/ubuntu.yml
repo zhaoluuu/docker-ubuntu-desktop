@@ -54,5 +54,5 @@ jobs:
         platforms: linux/amd64,linux/arm64
         push: true
         tags: |
-          gezp/ubuntu-desktop:${{env.UBUNTU_VERSION}}
-          registry.cn-hongkong.aliyuncs.com/gezp/ubuntu-desktop:${{env.UBUNTU_VERSION}}
+          nanyun/ubuntu-desktop:${{env.UBUNTU_VERSION}}
+          crpi-jyh7eq1l861ecu7f.cn-hangzhou.personal.cr.aliyuncs.com/nanyun/ubuntu-desktop:${{env.UBUNTU_VERSION}}
